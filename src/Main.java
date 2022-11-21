@@ -31,6 +31,8 @@ public class Main {
                         {
                             System.out.println("Largest is "+num3);
                         }
+                    case 2:
+
                 }
 
 
